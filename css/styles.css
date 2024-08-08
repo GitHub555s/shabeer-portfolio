@@ -4,7 +4,7 @@
     font-style: normal;
   }
 .banner {
-    background-image: url(project/css/slide.jpg);
+    background-image: url(/shabeer-portfolio/photo/slide.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding : 400px 0;
